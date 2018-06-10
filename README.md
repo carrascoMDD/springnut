@@ -3,7 +3,10 @@ End-2-end implementation Angular/Javascript/nginx/Tomcat/REST API/Spring+Roo/JPA
 
 See it live at 
 http://www.SpringNut.org 
- (often down because it is used a playground).
+(often down because it is used a playground).
+ 
+More info in web site 
+http://www.modeldd.org/cntnt/cases/springnut
 
 Reuses https://github.com/carrascoMDD/uiwire 
 
